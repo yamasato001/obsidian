@@ -11,24 +11,13 @@
             "id": "fca55d4a5ae7d08e",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
-            }
-          },
-          {
-            "id": "fd98ea3df9523ac4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "icon": "lucide-file",
+              "title": "新規タブ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,18 +184,18 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "fd98ea3df9523ac4",
+  "active": "4bf08881db2d7a75",
   "lastOpenFiles": [
     "HAL作業/Cosmo/サーボプレスの開発.md",
     "HAL作業/Cosmo",
-    "AIコピペ/chatgpt.md",
-    "生活",
     "HAL作業",
-    "本業",
+    "AIコピペ/chatgpt.md",
+    "AIコピペ",
+    "AI重要コピペ/chatgpt.md",
     "ようこそ.md",
     "2026-09-28.md",
     "無題のファイル.base",
-    "本業/matopuri",
-    "AIコピペ"
+    "matopuri",
+    "AI重要コピペ"
   ]
 }
